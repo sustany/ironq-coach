@@ -1,7 +1,7 @@
 {
   "name": "ironq-coach",
   "displayName": "IronQ Coach",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A strength coach inside Claude: weekly training reviews, whether you are still getting stronger, weights for your next session from your IronQ log, and free fat-loss plans that protect muscle, no account needed.",
   "author": {
     "name": "IronQ",
@@ -18,5 +18,9 @@
     "workout log"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://ironq.app/privacy"
+  "privacyPolicyUrl": "https://ironq.app/privacy",
+  "repository": "https://github.com/sustany/ironq-coach",
+  "documentationUrl": "https://ironq.app/connect/claude",
+  "supportUrl": "https://ironq.app/connect/claude",
+  "termsOfServiceUrl": "https://ironq.app/terms"
 }
