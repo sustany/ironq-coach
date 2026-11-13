@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ironq": {
+      "type": "http",
+      "url": "https://ironq.app/mcp"
+    }
+  }
+}
