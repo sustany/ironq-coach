@@ -1,7 +1,7 @@
 {
   "name": "ironq-coach",
   "displayName": "IronQ Coach",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A strength coach inside Claude: weekly training reviews, whether you are still getting stronger, weights for your next session from your IronQ log, and free fat-loss plans that protect muscle, no account needed.",
   "author": {
     "name": "IronQ",
